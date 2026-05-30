@@ -35,6 +35,6 @@ Currently, I am expanding my skills through continuous learning, personal projec
 
 Thanks for visiting my profile!
 
-<img width="1492" height="1054" alt="image" src="https://github.com/user-attachments/assets/9f48f8ad-3549-4cb7-b028-4c96ce230a60" />
+<img width="492" height="654" alt="image" src="https://github.com/user-attachments/assets/9f48f8ad-3549-4cb7-b028-4c96ce230a60" />
 
 
