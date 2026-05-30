@@ -34,3 +34,6 @@ Currently, I am expanding my skills through continuous learning, personal projec
 - GitHub: https://github.com/Angeligbuwe
 
 Thanks for visiting my profile!
+
+![Uploading image.png…]()
+
